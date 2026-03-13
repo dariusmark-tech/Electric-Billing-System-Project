@@ -1,4 +1,4 @@
-# 💡 Utility Billing System (C)
+# 💡 Billing System (C)
 
 A console-based utility billing system written in C that calculates water/electricity bills for **Residential** and **Commercial** customers. The program features a simple login system, tiered billing rates, penalty computation for late payments, and a basic cash payment processor.
 
